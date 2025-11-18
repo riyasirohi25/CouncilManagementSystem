@@ -1,0 +1,10 @@
+com\mycompany\councilmanagementsystem\SignUpServlet.class
+com\mycompany\councilmanagementsystem\resources\JakartaEE10Resource.class
+com\mycompany\councilmanagementsystem\TestDB.class
+com\mycompany\councilmanagementsystem\ResetSystemServlet.class
+com\mycompany\councilmanagementsystem\DBConnection.class
+com\mycompany\councilmanagementsystem\JakartaRestConfiguration.class
+com\mycompany\councilmanagementsystem\LogoutServlet.class
+com\mycompany\councilmanagementsystem\DBUtil.class
+com\mycompany\councilmanagementsystem\ChangePasswordServlet.class
+com\mycompany\councilmanagementsystem\LoginServlet.class
