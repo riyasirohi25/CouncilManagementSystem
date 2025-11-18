@@ -56,7 +56,7 @@ This ensures fresh recruitment every year while keeping user credentials unchang
 
 
 ## 🎥 Demo Video
-Watch the project demo her: https://youtu.be/A8peVDuWVf4
+Watch the project demo here: https://youtu.be/A8peVDuWVf4
 
 
 
