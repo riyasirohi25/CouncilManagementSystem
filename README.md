@@ -1,4 +1,4 @@
-# Council Management System
+# Council Management System — Web-Based Student Election Platform
 
 The **Council Management System** is a web-based application built using **JSP**, **Servlets**, and **MySQL**, designed to automate and streamline the student council selection process in educational institutions. The system ensures a structured, transparent, and efficient workflow for **students**, **admins**, and the **interview panel**, while also supporting yearly data reset for new sessions.
 
